@@ -1,7 +1,6 @@
-# COMP2110 Task Manager 2024
+Group Assignment done for my Web Technology course. Simple Task Manager with implemented Tasks. A game and other items. (Sign-in / Log-in were given to the group from the uni. )
 
-As part of your assignment submission, write notes about your implementation
-in this file.
+
 
 ## Avi
 - For a week or two
